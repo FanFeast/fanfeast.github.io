@@ -13,7 +13,7 @@ excerpt: 'Independent Group Project [August 2022 - December 2022]'
 
 <center><figure>
   <img src="/images/Lunar_project_pit_3d.png" alt="Working" style="width:400px;height:400px;">
-  <figcaption>3D Render of Lacus Mortis Pit</figcaption>
+  <figcaption><u><em>3D Render of Lacus Mortis Pit</em></u></figcaption>
   </figure></center>
 
 
@@ -28,14 +28,14 @@ excerpt: 'Independent Group Project [August 2022 - December 2022]'
 
 <center><figure>
   <img src="/images/Lunar_project_Vantage_Point_generation.png" alt="Vantage Point Generation" style="width:500px;height:200px;">
-  <figcaption>Vantage poitns are generated based on where the meet the LOS coverage and the Pits border.</figcaption>
+  <figcaption><u><em>Vantage poitns are generated based on where the meet the LOS coverage and the Pits border</em></u></figcaption>
   </figure></center>
 
 
 <center><figure>
   <img src="/images/Lunar_project_Site_Evaluator_Working.gif" alt="Working" style="width:400px;height:400px;">
-  <figcaption>Algorithm going though various landing sites (blue circle) and the 
-  correspoing changes in the LOS Map (Green Shade) based on the Depth Map (Red Shades)</figcaption>
+  <figcaption><u><em>Algorithm going though various landing sites (blue circle) and the 
+  correspoing changes in the LOS Map (Green Shade) based on the Depth Map (Red Shades)</em></u></figcaption>
   </figure></center>
 
 
@@ -43,6 +43,6 @@ excerpt: 'Independent Group Project [August 2022 - December 2022]'
 
 <center><figure>
   <img src="/images/Lunar_project_overlay.png" alt="Overlay" style="width:400px;height:400px;">
-  <figcaption>Currently shows the Generated Path and Satellite Image Overlay</figcaption>
+  <figcaption><u><em>Currently shows the Generated Path and Satellite Image Overlay</em></u></figcaption>
  </figure></center>
 
