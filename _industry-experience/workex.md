@@ -13,16 +13,11 @@ author_profile: true
   <img src="/images/PGP_Logo.png" alt="flower" style="width:100px;height:100px;">
   </figure>
   * <h3>Data Science Intern [July 2022 - August 2022]</h3>
-    * Built and managed nanosecond latency trading systems for large volume stocks and options flow worth billion dollars for 1000+ institutional clients.
-    * Developed a tool using Java to effectively distribute short sell locates to clients, increasing daily trade volume by 35%.
-    * Drove initiatives with external vendors in US exchange connectivity space to enhance trade liquidity with darkpools.
-  * <h3>Analyst | GS Electronic Trading Platforms Tech [Jun 2019 - Dec 2021]</h3>
-    * Managed load capacity planning and effectively redesigned the order management system  (C++) to cut latency by 40%.
-    * Designed an ML/NLU based chatbot for traders to answer queries from traders, reducing human dependence by 60%.
-    * Qualified Chartered Financial Analyst Level 1 exam (Top 10%) to hone functional competencies and upskill juniors.
-  * <h3>Summer Analyst Intern | GS Electronic Trading Platforms Tech [May 2018 - July 2018]</h3>
-    * Interned in the GS Electronic Trading team to create a web based monitoring solution using Python, Flask, Shell.
-    * The app curated all host related information from single API and performs health check for hosts to enhance the resiliency.
+    * Analyzed automation of quality control to identify glass print defects and improved efficiency by 40%; deployed 
+      algorithm with a six-camera setup to identify defects in glass bottles with varying sizes and different types of glasses.
+    * Created a python script to generate intelligence reports for meetings with 10+ people about perspective clients and 
+      potential sources for retail extracted from an international export database based on the production requirementsBuilt and managed nanosecond latency trading systems for large volume stocks and options flow worth billion dollars for 1000+ institutional clients.
+
 
 * <h2>Sandrock e-Securities Pvt. Ltd.</h2>
   <figure>
