@@ -14,6 +14,13 @@ excerpt: 'Independent Group Project [August 2022 - December 2022]'
   <img src="/images/Lunar_project_pit_3d.png" alt="Working" style="width:400px;height:400px;">
   <figcaption><u><em>Fig-1 3D Render of Lacus Mortis Pit</em></u></figcaption>
   </figure></center>
+  <br>
+<center>
+  <div style="display:flex; justify-content: center;">
+  <img src="/images/Lunar_project_LOS1.png" style="width:50%;" />
+  <img src="/images/Lunar_project_LOS2.png" style="width:50%;" /></div>
+  <figcaption><u><em>Fig-2 Line of Sight of Rover</em></u></figcaption>
+  </center>
 
 <br><br>
 <p>The project involved generating a 3D render of the Lunar surface (Fig-1) and using it to create a depth map, which was then used to generate a slope map in red color gradient to indicate areas with higher slopes or inaccessibility. The rover also had physical constraints, including line of sight with the lander at all times, slope constraints, and distance constraints, which were all taken into account during the algorithm's development. The algorithm employed C++ and A-Star Algorithm to evaluate all possible landing sites and find the optimal path for the rover to travel.</p>
