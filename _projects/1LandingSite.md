@@ -2,7 +2,7 @@
 title: "Lunar Rover Landing Site Analysis & Path Planner"
 collection: projects
 permalink: /projects/p1
-excerpt: 'Independent Group Project [September 2022]'
+excerpt: 'Independent Group Project [August 2022 - December 2022]'
 ---
 
 <b>Tech Stack:</b> C/C++, GitHub 
@@ -13,18 +13,29 @@ excerpt: 'Independent Group Project [September 2022]'
 
 <center><figure>
   <img src="/images/Lunar_project_pit_3d.png" alt="Working" style="width:400px;height:400px;">
+  <figcaption>3D Render of Lacus Mortis Pit</figcaption>
   </figure></center>
 
 
 <p>The project involved generating a 3D render of the Lunar surface and using it to create a depth map, which was then used to generate a slope map in red color gradient to indicate areas with higher slopes or inaccessibility. The rover also had physical constraints, including line of sight with the lander at all times, slope constraints, and distance constraints, which were all taken into account during the algorithm's development. The algorithm employed C++ and A-Star Algorithm to evaluate all possible landing sites and find the optimal path for the rover to travel.</p>
+
 <center><figure>
-  <img src="/images/Lunar_project_Site_Evaluator_Working.gif" alt="Working" style="width:400px;height:400px;">
+  <img src="/images/Lunar_project_output.png" alt="output" style="width:500px;height:200px;">
   </figure></center>
+
 
 <p>The Line of Sight Map (LOS Map) was generated to represent all the points on the map where the lander could communicate with the rover, and an LOS Aggregate Map was also created to ensure the landing site covered the entire pit in its line of sight. Thirty-six sites were generated around the pit space at 10-degree intervals from the center of the pit, and the optimal sites were determined by overlaying the LOS map. A complex G score function was used to assign penalties to different parameters and generate a ranking to select the best path.</p>
 
 <center><figure>
-  <img src="/images/Lunar_project_output.png" alt="output" style="width:500px;height:200px;">
+  <img src="/images/Lunar_project_Vantage_Point_generation.png" alt="Vantage Point Generation" style="width:500px;height:200px;">
+  <figcaption>Vantage poitns are generated based on where the meet the LOS coverage and the Pits border.</figcaption>
+  </figure></center>
+
+
+<center><figure>
+  <img src="/images/Lunar_project_Site_Evaluator_Working.gif" alt="Working" style="width:400px;height:400px;">
+  <figcaption>Algorithm going though various landing sites (blue circle) and the 
+  correspoing changes in the LOS Map (Green Shade) based on the Depth Map (Red Shades)</figcaption>
   </figure></center>
 
 
@@ -32,5 +43,6 @@ excerpt: 'Independent Group Project [September 2022]'
 
 <center><figure>
   <img src="/images/Lunar_project_overlay.png" alt="Overlay" style="width:400px;height:400px;">
+  <figcaption>Currently shows the Generated Path and Satellite Image Overlay</figcaption>
  </figure></center>
 
