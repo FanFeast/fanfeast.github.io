@@ -10,7 +10,7 @@ author_profile: true
 
 * <h2>PGP Glass Private Limited</h2>
   <figure>
-  <img src="/images/PGP_Logo.png" alt="flower" style="width:100px;height:300px;">
+  <img src="/images/PGP_Logo.png" alt="flower" style="width:100px;height:200px;">
   </figure>
   * <h3>Data Science Intern [July 2022 - August 2022]</h3>
     * Analyzed automation of quality control to identify glass print defects and improved efficiency by 40%; deployed 
@@ -22,7 +22,7 @@ author_profile: true
 
 * <h2>Maruti Suzuki Private Limited</h2>
   <figure>
-  <img src="/images/MS_Logo.png" style="width:300px;height:100px;">
+  <img src="/images/MS_Logo.png" style="width:300px;height:150px;">
   </figure>
   * <h3>Software Trainee [May 2016 - Jun 2016]</h3>
     * Developed a PySpark preprocessing pipeline to enhance data pre-processing speed by 20%; with 30% lesser 
