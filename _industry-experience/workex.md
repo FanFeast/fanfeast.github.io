@@ -10,7 +10,7 @@ author_profile: true
 
 * <h2>PGP Glass Private Limited</h2>
   <figure>
-  <img src="/images/PGP_Logo.png" alt="flower" style="width:100px;height:200px;">
+  <img src="/images/PGP_Logo.png" alt="PGP LOGO" style="width:100px;height:200px;">
   </figure>
   <h3>Data Science Intern [July 2022 - August 2022]</h3>
     * Analyzed automation of quality control to identify glass print defects and improved efficiency by 40%; deployed 
@@ -22,7 +22,7 @@ author_profile: true
 
 * <h2>Maruti Suzuki Private Limited</h2>
   <figure>
-  <img src="/images/MS_Logo.png" style="width:300px;height:150px;">
+  <img src="/images/MS_Logo.png" alt = "Maruti" style="width:300px;height:150px;">
   </figure>
   <h3>Data Science Intern [Januaray 2022 - Jun 2022]</h3>
     * Developed a PySpark preprocessing pipeline to enhance data pre-processing speed by 20%; with 30% lesser 
@@ -32,7 +32,7 @@ author_profile: true
 
 * <h2>Hero Moto Corop</h2>
   <figure>
-  <img src="/images/Hero_Logo.png" style="width:300px;height:150px;">
+  <img src="/images/Hero_Logo.png" alt= "Hero" style="width:300px;height:150px;">
   </figure>
   <h3>Software Trainee [July 2021 - August 2021]</h3>
     *  Proposed a new packaging label design in compliance with Package Commodity Act; Performed packaging data analysis 

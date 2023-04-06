@@ -178,6 +178,12 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  industry-experience:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
