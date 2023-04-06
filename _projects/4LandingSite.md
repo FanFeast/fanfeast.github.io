@@ -9,11 +9,10 @@ excerpt: 'Group Project [September 2022 - December 2022]'
 
 
 * <b>Tech Stack:</b> C/C++ (Eigen3, Embree 3.0, fmt), GitHub 
-  <figure style="text-align:center; margin:0 auto;">
+  <div style="text-align:center">
     <img src="/images/Lunar_project_pit_3d.png" alt="PIT" style="width:500px;height:300px;">
-    <figcaption><u><em>Fig-1 3D Render of Lacus Mortis Pit</em></u></figcaption>
-  </figure>
-
+  </div>
+  <figcaption style="text-align: center;"><u><em>Fig-1 3D Render of Lacus Mortis Pit</em></u></figcaption>
   
   * <p style="text-align: justify;">The following project was conducted in collaboration with Planerty Labs at CMU as part of a larger project aimed at exploring the Lunar surface,     particularly low-light zones like the pits. These areas cannot be observed by cameras from satellites orbiting the moon, and sending the rover to explore   them is not an option as the rover must maintain a line of sight with the lander (as shown in Fig-2) at all times to transmit information such as photos  and samples. Therefore, an algorithm was developed to find the optimal landing site and generate an optimal path for the rover to travel. The needed input  for the algorithm is a 3D render of the landign surface (as shown in Fig-1).</p>
   <br>
