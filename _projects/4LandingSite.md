@@ -7,14 +7,18 @@ excerpt: 'Group Project [September 2022 - December 2022]'
 
 [[ppt]](https://docs.google.com/presentation/d/14eA6XsbJ2c8gRGJ7MdhdhHJT0oORI3D_/edit?usp=sharing&ouid=114350528429388663351&rtpof=true&sd=true)[[code]](https://github.com/FanFeast/Landing_Site_Navigation_and_Path_Planning)
 
-
 * <b>Tech Stack:</b> C/C++ (Eigen3, Embree 3.0, fmt), GitHub 
+* <b> Summary </b>
+  * Created an algorithm as a part of a team of four students to automate and improve the way to evaluate the best possible landing sites around pits on lunar surfaces based on the mesh grid data of the surface
+  *  Implemented path planning algorithm that was used to identify points of entry for the rover to get close to the pit and to grab samples and photos of the pit in the most efficient way using A-star algorithm
+  <br><br>
+* <b> In-Depth </b>
   <div style="text-align:center">
     <img src="/images/Lunar_project_pit_3d.png" alt="PIT" style="width:500px;height:300px;">
   </div>
   <figcaption style="text-align: center;"><u><em>Fig-1 3D Render of Lacus Mortis Pit</em></u></figcaption>
   
-  * <p style="text-align: justify;">The following project was conducted in collaboration with Planerty Labs at CMU as part of a larger project aimed at exploring the Lunar surface,     particularly low-light zones like the pits. These areas cannot be observed by cameras from satellites orbiting the moon, and sending the rover to explore   them is not an option as the rover must maintain a line of sight with the lander (as shown in Fig-2) at all times to transmit information such as photos  and samples. Therefore, an algorithm was developed to find the optimal landing site and generate an optimal path for the rover to travel. The needed input  for the algorithm is a 3D render of the landign surface (as shown in Fig-1).</p>
+  * <p style="text-align: justify;">The following project was conducted in collaboration with Planerty Labs at CMU as part of a larger project aimed at exploring the Lunar surface,     particularly low-light zones like the pits. These areas cannot be observed by cameras from satellites orbiting the moon, and sending the rover to explore   them is not an option as the rover must maintain a line of sight with the lander (as shown in Fig-2) at all times to transmit information such as photos  and samples. Therefore, an algorithm was developed to find the optimal landing site and generate an optimal path for the rover to travel. The needed input  for the algorithm is a 3D render of the landign surface (Fig-1).</p>
   <br>
   <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
     <div style="width: 50%; text-align: center;">
@@ -41,15 +45,12 @@ excerpt: 'Group Project [September 2022 - December 2022]'
   <figcaption style="text-align: center;"><u><em>Fig-4 Vantage poitns are generated based on where the meet the LOS coverage and the Pits border</em></u></figcaption>
   <br>
   * <p style="text-align: justify;">In Fig-5 you can see the algorithm going through different possible landing sites and evaluating which is the best landing site for the rover.</p> 
-  <br><br>
-  
+  <br>  
   <div style="text-align:center">
     <img src="/images/Lunar_project_Site_Evaluator_Working.gif" alt="Working" style="width:400px;height:400px;">
   </div>
-
   <figcaption style="text-align: center;"><u><em>Fig-5 Algorithm going though various landing sites (blue circle) and the 
     correspoing changes in the LOS Map (Green Shade) based on the Depth Map (Red Shades)</em></u></figcaption>
-
   <br>
   * <p style="text-align: justify;">The results of the project were successful, with an algorithm that was able to find a list of the best landing sites and generated an optimal path for the rover to traverse around the Lacus Mortis Pit. The code gengerated has also been done in a very modular way and can be used to generatea paths and best landing sites by altering the G-Score funcstion based on the requirements. Also, an overlay extension (called mapWindow) was also created, allowing the generated path to be overlaid with the actual image from the Moon, making it easier to visualize and justify.</p>
 
