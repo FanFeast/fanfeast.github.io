@@ -31,7 +31,7 @@ excerpt: 'Independent Group Project [October 2019 - December 2021]'
     
     -  The kinematic analysis and the mathematical calculations behind the robot can be found on the <b>[Notion page](https://common-bathtub-ada.notion.site/Quadrupled-Project-5025fb31b81147499df83d656a3e7b42)</b>.
     
-    - The simulations below show to final output of the projects depecting the capabilties of the robot. It can also be observed that the robot is fully capable of dropping down to the the much lower heigt as the limbs are out of plane for the robot. 
+    - The simulations below show to final output of the projects depecting the capabilties of the robot. It can also be observed that the robot is fully capable of dropping down to the the much lower heigt as the limbs are out of plane for the robot. This imcrease the mobility in robot in cramped quaters and low lying ares. It can also be noted that the robot is able to maintain the same functionality as before without the increase in any additional contraints due to the redeigning of the legs. 
     <div style="text-align:center">
     <video src="/images/Quad_project_simulation_1.mp4" controls="controls" style="max-width: 750px;">
     </div>
