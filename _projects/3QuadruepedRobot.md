@@ -30,15 +30,17 @@ excerpt: 'Independent Group Project [October 2019 - December 2021]'
     - The figure above shows the new design of the leg used. This was done to provide the robot with a higher order of workspace. While, also mainting the capabilities of the current design. Furthermore, legged robots have the potential to significantly reduce the environmental impact of transportation. Compared to traditional wheeled vehicles, legged robots have a lower ground pressure, which means they can traverse delicate ecosystems without causing damage. They also consume less energy, making them more environmentally friendly than traditional vehicles. In the future, legged robots may be used for last-mile delivery, reducing the need for carbon-emitting trucks and vans. Overall, legged robots have a wide range of potential applications and offer a flexible and adaptable platform for various tasks. Their ability to navigate complex environments, interact with humans, and reduce environmental impact make them an important area of research and development.
     
     -  The kinematic analysis and the mathematical calculations behind the robot can be found on the <b>[Notion page](https://common-bathtub-ada.notion.site/Quadrupled-Project-5025fb31b81147499df83d656a3e7b42)</b>.
-    
+
     <div style="text-align:center">
-    <video src="/images/Quad_project_simulation_1.mp4" controls="controls" style="max-width: 750px;">
+    <video src="/images/Quad_project_simulation_1.mp4" controls="controls" style="max-width: 750px;"></video>
     </div>
     <figcaption style="text-align: center;"><u><em>Simulation-1 Standstill movement capabilities of the Robot</em></u></figcaption>
 
     <div style="text-align:center">
-    <video src="/images/Quad_project_simulation_2.mp4" controls="controls" style="max-width: 750px;">
+    <video src="/images/Quad_project_simulation_2.mp4" controls="controls" style="max-width: 750px;"></video>
     </div>
     <figcaption style="text-align: center;"><u><em>Simulation-2 Motion capabilities of the Robot</em></u></figcaption>
 
     - The simulations above show to final output of the projects depecting the capabilties of the robot. It can also be observed that the robot is fully capable of dropping down to the the much lower heigt as the limbs are out of plane for the robot. This imcrease the mobility in robot in cramped quaters and low lying ares. It can also be noted that the robot is able to maintain the same functionality as before without the increase in any additional contraints due to the redeigning of the legs. 
+
+    
