@@ -23,7 +23,7 @@ excerpt: 'Independent Group Project [October 2019 - December 2021]'
     - The goal of the project was to re-create the leg design to increase the workspace of the robots legs. Legged robots, which are robots designed with legs instead of wheels, have become increasingly important in recent years. One of the main advantages of legged robots is their ability to navigate complex and uneven terrain, making them ideal for applications such as search and rescue, exploration, and inspection of hazardous environments. Additionally, legged robots can be used for tasks that require greater dexterity and mobility, such as manipulating objects or interacting with humans. Legged robots can also operate in environments where wheeled robots or other types of vehicles may be unable to operate, such as rocky or steep terrain, or in disaster-stricken areas with debris on the ground.
     
     <div style="text-align:center">
-    <img src="/images/Quad_project_Leg_Redesign.png" alt="Robot_Render" style="width:700px;height:300px;">
+    <img src="/images/Quad_project_Leg_Redesign.png" alt="Robot_Render" style="width:550px;height:300px;">
     </div>
     <figcaption style="text-align: center;"><u><em>Fig-2 Redesigned Leg with out of plane joints</em></u></figcaption>
     <br>
@@ -31,15 +31,15 @@ excerpt: 'Independent Group Project [October 2019 - December 2021]'
     
     -  The kinematic analysis and the mathematical calculations behind the robot can be found on the <b>[Notion page](https://common-bathtub-ada.notion.site/Quadrupled-Project-5025fb31b81147499df83d656a3e7b42)</b>.
     
-    - The simulations below show to final output of the projects depecting the capabilties of the robot. It can also be observed that the robot is fully capable of dropping down to the the much lower heigt as the limbs are out of plane for the robot. This imcrease the mobility in robot in cramped quaters and low lying ares. It can also be noted that the robot is able to maintain the same functionality as before without the increase in any additional contraints due to the redeigning of the legs. 
     <div style="text-align:center">
     <video src="/images/Quad_project_simulation_1.mp4" controls="controls" style="max-width: 750px;">
     </div>
     <figcaption style="text-align: center;"><u><em>Simulation-1 Standstill movement capabilities of the Robot</em></u></figcaption>
 
-    <br>
     <div style="text-align:center">
     <video src="/images/Quad_project_simulation_2.mp4" controls="controls" style="max-width: 750px;">
     </div>
     <figcaption style="text-align: center;"><u><em>Simulation-2 Motion capabilities of the Robot</em></u></figcaption>
+
+    - The simulations above show to final output of the projects depecting the capabilties of the robot. It can also be observed that the robot is fully capable of dropping down to the the much lower heigt as the limbs are out of plane for the robot. This imcrease the mobility in robot in cramped quaters and low lying ares. It can also be noted that the robot is able to maintain the same functionality as before without the increase in any additional contraints due to the redeigning of the legs. 
 
