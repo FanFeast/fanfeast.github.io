@@ -9,7 +9,7 @@ redirect_from:
 ---
 <i>"My heart in my work" - Andrew Carnegie</i>
 
-Here is my [Curriculum Vitae](https://drive.google.com/file/d/17GwpDJFucQoMlLc91AxcsP38_2nrAYEd/view?usp=share_link)
+Here is my [Curriculum Vitae](https://drive.google.com/file/d/1KaoPflEb7HSZ1PJQL_icd0tGl_1_Mais/view?usp=share_link)
 
 Hello there! My name is Mukul Ganwal, and I am currently pursuing my Master of Science in Mechanical Engineering at Carnegie Mellon University. I have a passion for robotics and artificial intelligence and have taken courses such as Robot Dynamics and Analysis, ML & AI for Engineers, Modern Control Theory, and Trustworthy AI Autonomy, among others.
 
