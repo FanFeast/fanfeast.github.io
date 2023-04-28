@@ -22,8 +22,7 @@ author_profile: true
   </figure>
 * <h2>Maruti Suzuki Private Limited</h2>
   <h3>Data Science Intern [Januaray 2022 - Jun 2022]</h3>
-    * Creating a preprocessing pipeline using PySpark to enhance the data pre-processing speed by 20%
-    * While utilizing up to 30% of lesser resources; also improving the modularity of the existing code and increasing its efficiency 
+    * Creating a preprocessing pipeline using PySpark to enhance the data pre-processing speed by 20% while utilizing up to 30% of lesser resources; also improving the modularity of the existing code and increasing its efficiency 
     * Created a database to identify the best location for electric vehicle charging location
     * Built a warning system to warn the vehicle owner about a possible failure based on data obtained from other consumers.
 
