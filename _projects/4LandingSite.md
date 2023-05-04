@@ -2,7 +2,7 @@
 title: "Lunar Rover Landing Site Analysis & Path Planner"
 collection: projects
 permalink: /projects/p4
-excerpt: 'Group Project [September 2022 - December 2022]'
+excerpt: 'Academic Group Project [September 2022 - December 2022]'
 ---
 
 [[ppt]](https://docs.google.com/presentation/d/14eA6XsbJ2c8gRGJ7MdhdhHJT0oORI3D_/edit?usp=sharing&ouid=114350528429388663351&rtpof=true&sd=true)[[code]](https://github.com/FanFeast/Landing_Site_Navigation_and_Path_Planning)
