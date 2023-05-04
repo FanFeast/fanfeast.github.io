@@ -12,6 +12,18 @@ excerpt: 'Independent Group Project [June 2020 - Feburay 2021]'
 <br>
 * <b>In-Depth</b>
     -  <p style="text-align: justify;">The purpose of this project is to develop a modular sanitation robot that can be easily upgraded or downgraded by adding or removing specific blocks. The aim is to provide a cost-effective solution to customers, as they won't have to buy an entirely new robot to make changes in its features. The robot will include specialized blocks designed for specific purposes like motor and sensor controllers, wiring for camera and input, dry, wet mop, vacuum, and UV light sanitation.</p>
-    -  <p style="text-align: justify;">We used the older robot Pioneer3dx as the base for our sanitation robot and then made significant upgrades to its design. We divided the robot into modular blocks, and each block was designed to perform a particular task. Block 1 contained the robot's motor and sensor controllers and battery, block 2 included sensors and wiring for camera and input, block 3 was responsible for dry, wet mop and vacuum, and block 0 was the UV light sanitation module.</p>
+    <div style="text-align:center">
+    <img src="/images/Sanitation_Robot_1.png" alt="Robot_Render" style="width:700px;height:300px;">
+    </div>
+    <figcaption style="text-align: center;"><u><em>Fig-1 Pioneer3DX robot</em></u></figcaption>
+    -  <p style="text-align: justify;">We used the older robot called Pioneer3dx as the base for our sanitation robot and then made significant upgrades to its design. We divided the robot into modular blocks, and each block was designed to perform a particular task. Block 1 contained the robot's motor and sensor controllers and battery, block 2 included sensors and wiring for camera and input, block 3 was responsible for dry, wet mop and vacuum, and block 0 was the UV light sanitation module.</p>
+    <div style="text-align:center">
+    <img src="/images/Sanitation_Robot_1.png" alt="Robot_Render" style="width:500px;height:450px;">
+    </div>
+    <figcaption style="text-align: center;"><u><em>Fig-2 Render of the Sanitation Robot</em></u></figcaption>
     -  <p style="text-align: justify;">The sanitation robot had two modes of operation, i.e., systematics clean-up and random. The systematics clean-up mode was triggered when the room was empty, and the robot followed a fixed path while sanitizing and mopping the entire place using the A*Star algorithm. On the other hand, the random mode enabled the robot to move randomly without colliding with objects/obstacles and humans.</p>
+    <div style="text-align:center">
+    <video src="/images/Quad_project_simulation_2.mp4" controls="controls" style="max-width: 750px;"></video>
+    </div>
+    <figcaption style="text-align: center;"><u><em>Simulation-1 Random Motion capabilities of the Robot</em></u></figcaption>
     -  <p style="text-align: justify;">In conclusion, we successfully designed and built a modular sanitation robot that could be easily upgraded or downgraded by adding or removing specific blocks. We sold nine prototypes of the robot to initial investors, particularly those who owned libraries and gyms, as they would benefit the most from such a product. The robot's two modes of operation, i.e., systematics clean-up and random, provided flexibility in its functionality, making it a reliable and effective solution for customers.</p>
