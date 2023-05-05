@@ -31,14 +31,14 @@ excerpt: 'Academic Group Project [January 2023 - May 2023]'
 
   * <p style="text-align: justify;">In order to optimize the efficiency of the jumping movement of the legged robot, the team has designed experiments that incorporate passive dynamics, particularly springs, which are installed between the thigh and calf. Inspired by the tendons of animal legs, the team wants to evaluate the effect of the spring on the robot leg's input efficiency. The robot leg will be fixed onto a track and set to jump to the same height each time, while a weight will be placed on top of the leg to simulate the weight of the springs and the situation in which the robot leg is assembled to a robot dog. The energy consumption of the motor powering the leg will be measured using meters and calculated using equation 1. The team aims to evaluate the efficiency of the leg and will explore other configurations if necessary. The motor is powered by a 24V input, and the team hopes to use a power supply that shows the energy usage over time for more accurate results. </p>
   <div style="text-align:center">
-    <img src="/images/Leg_Design_4.png" alt="leg" style="width:600px;height:700px;">
+    <img src="/images/Leg_Design_4.png" alt="leg" style="width:600px;height:650px;">
   </div>
   <figcaption style="text-align: center;"><u><em>Fig-4 Experimental Setup</em></u></figcaption>
   <br>
   <div style="text-align:center">
     <img src="/images/Leg_Design_5.png" alt="leg" style="width:600px;height:400px;">
   </div>
-  <figcaption style="text-align: center;"><u><em>Fig-5 Result</em></u></figcaption>
+  <figcaption style="text-align: center;"><u><em>Fig-5 Jumping Height Result</em></u></figcaption>
 
   * <p style="text-align: justify;">In order to optimize the efficiency of the jumping movement of the legged robot, the team has designed experiments that incorporate passive dynamics, particularly springs, which are installed between the thigh and calf. Inspired by the tendons of animal legs, the team wants to evaluate the effect of the spring on the robot leg's input efficiency. The robot leg will be fixed onto a track and set to jump to the same height each time, while a weight will be placed on top of the leg to simulate the weight of the springs and the situation in which the robot leg is assembled to a robot dog. The energy consumption of the motor powering the leg will be measured using meters and calculating it by finding the total power consumed for the cycle of jumps. The team aims to evaluate the efficiency of the leg and will explore other configurations if necessary. The motor is powered by a 24V input, and the team hopes to use a power supply that shows the energy usage over time for more accurate results. </p>
   <div style="text-align:center">
