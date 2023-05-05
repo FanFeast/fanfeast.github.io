@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-<p><h3><span style="text-align:left; display:inline-block; width:50%;">CARNEGIE MELLON UNIVERISTY</span><span style="text-align:right; display:inline-block; width:50%;">July 2018 -July 2022</span></h3></p>
+<p><h3><span style="text-align:left; display:inline-block; width:50%;">CARNEGIE MELLON UNIVERSITY</span><span style="text-align:right; display:inline-block; width:50%;">July 2018 -July 2022</span></h3></p>
 
   *  GPA - 3.84 
-  *  Relevant Couse Work - Robot Dynamics and Analysis (F22), ML & AI for Engineers (F22), Modern Control Theory(F22), Trustworthy AI Autonomy(S23), Introduction to Deep Learning (S23), Bioinspired Robot design(S23)
+  *  Relevant Course Work - Robot Dynamics and Analysis (F22), ML & AI for Engineers (F22), Modern Control Theory(F22), Trustworthy AI Autonomy(S23), Introduction to Deep Learning (S23), Bio-Inspired Robot design(S23)
 
 
 
@@ -20,4 +20,4 @@ redirect_from:
 <h4></h4>
 
   *  GPA - 8.95/10 (89.5%)
-  *  Relevant Couse Work -> Robotics, Product Development and Management, Computer Aided Design/Computer Aided
+  *  Relevant Course Work -> Robotics, Product Development and Management, Computer Aided Design/Computer Aided
