@@ -5,10 +5,10 @@ permalink: /projects/p2
 excerpt: 'Independent Group Project [June 2020 - Feburay 2021]'
 ---
 [[report]](https://drive.google.com/file/d/1jr6RCCDWNcdROn00SAsmR9s1Q2w9nzuz/view?usp=share_link)
-* <b>Tech Stack:</b> Python, V-Rep, Solidworks
+* <b>Tech Stack:</b> Python, V-Rep, SolidWorks
 * <b> Summary </b>
     -  Created a CAD design and prototype of a sanitation robot as a team lead of twelve students
-    -  Analysed stability and implemented trot, canter and pace gait to analyses the various performance
+    -  Analyzed stability and implemented trot, canter and pace gait to analyses the various performance
     -  Redesigned the legs of the quadruped robot making it capable of performing backflips; conducted kinematic workspace analysis of the robot and using the kinematic equation of motions and Simulink
 <br>
 * <b>In-Depth</b>
