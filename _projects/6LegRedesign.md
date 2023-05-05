@@ -5,7 +5,7 @@ permalink: /projects/p6
 excerpt: 'Academic Group Project [January 2023 - May 2023]'
 ---
 [[GitHub]](https://github.com/zixinz990/tmotor_control.git)
-* <b>Tech Stack:Python, GitHub, AWS, GCP</b> 
+* <b>Tech Stack:</b> Python, GitHub, C/C++ 
 * <b> Summary </b>
   * Design and build a legged robot that uses springs as a substitute for tendons to store kinetic energy, and develop a control system that can effectively exploit the elastic energy stored in the springs.
   *  Conduct experiments to evaluate the energy efficiency and dynamic performance of the legged robot with different spring configurations, and compare the results with those of a normal two-link leg design, with the goal of providing insights into the design and control of spring-leg systems for more energy-efficient and dynamic legged robots.
