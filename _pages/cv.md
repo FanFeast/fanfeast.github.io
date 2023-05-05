@@ -16,7 +16,7 @@ redirect_from:
 
 
 
-<p><h3><span style="text-align:left; display:inline-block; width:50%;">Vellore Institute of Technology</span><span style="text-align:right; display:inline-block; width:50%;">July 2018 -July 2022</span></h3></p>
+<p><h3><span style="text-align:left; display:inline-block; width:50%;">VELLORE INSTITUTE OF TECHNOLOGY</span><span style="text-align:right; display:inline-block; width:50%;">July 2018 -July 2022</span></h3></p>
 <h4></h4>
 
   *  GPA - 8.95/10 (89.5%)
