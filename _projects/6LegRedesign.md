@@ -14,7 +14,7 @@ excerpt: 'Academic Group Project [January 2023 - May 2023]'
   <div style="text-align:center">
     <img src="/images/Leg_Design_1.png" alt="leg" style="width:600px;height:300px;">
   </div>
-  <figcaption style="text-align: center;"><u><em>Fig-1 Hypothese and Expected Energy Tranfer (assuming no losses)</em></u></figcaption>
+  <figcaption style="text-align: center;"><u><em>Fig-1 Hypotheses and Expected Energy Transfer (assuming no losses)</em></u></figcaption>
   * <p style="text-align: justify;">The use of robots in the biological field has shown tremendous potential in revolutionizing research and discovery. Robotic systems inspired by nature have been developed to mimic animal behavior and provide solutions to various challenges faced by the robotics community. The design and development of legged robots have been a subject of interest for researchers due to their potential to perform various tasks, including exploration, search and rescue, and military applications. However, the design of legged robots is still challenging, and optimizing their energy efficiency and dynamic motion remains a significant issue.</p>
 
   <div style="text-align:center">
