@@ -30,19 +30,19 @@ excerpt: 'Academic Group Project [January 2023 - May 2023]'
 
 
   <div style="text-align:center">
-    <img src="/images/Leg_Design_4.png" alt="leg" style="width:600px;height:300px;">
+    <img src="/images/Leg_Design_4.png" alt="leg" style="width:600px;height:700px;">
   </div>
   <figcaption style="text-align: center;"><u><em>Fig-4 Experimental Setup</em></u></figcaption>
 
 
   <div style="text-align:center">
-    <img src="/images/Leg_Design_5.png" alt="leg" style="width:600px;height:300px;">
+    <img src="/images/Leg_Design_5.png" alt="leg" style="width:600px;height:400px;">
   </div>
   <figcaption style="text-align: center;"><u><em>Fig-5 Result</em></u></figcaption>
 
 
   <div style="text-align:center">
-    <video src="/images/Leg_Design_Video.mp4" controls="controls" style="max-width: 750px;"></video>
+    <video src="/images/Leg_Design_Video.mp4" controls="controls" style="max-width: 450px;"></video>
     </div>
   <figcaption style="text-align: center;"><u><em>Video-1 Leg Jumping</em></u></figcaption>
 
