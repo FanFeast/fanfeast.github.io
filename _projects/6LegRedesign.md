@@ -42,7 +42,7 @@ excerpt: 'Academic Group Project [January 2023 - May 2023]'
 
 
   <div style="text-align:center">
-    <video src="/images/Leg_Design_Video.mp4" controls="controls" style="max-width: 450px;"></video>
+    <video src="/images/Leg_Design_Video.mp4" controls="controls" style="max-width: 400px;"></video>
     </div>
   <figcaption style="text-align: center;"><u><em>Video-1 Leg Jumping</em></u></figcaption>
 
