@@ -4,7 +4,7 @@ collection: projects
 permalink: /projects/p3
 excerpt: 'Independent Group Project [October 2019 - December 2021]'
 ---
-[[Notion]](https://common-bathtub-ada.notion.site/Quadrupled-Project-5025fb31b81147499df83d656a3e7b42)[[Github]](https://github.com/FanFeast/Quadruped_Robot)
+[[Notion]](https://common-bathtub-ada.notion.site/Quadrupled-Project-5025fb31b81147499df83d656a3e7b42)[[GitHub]](https://github.com/FanFeast/Quadruped_Robot)
 
 * <b>Tech Stack:</b> Python(PyBullet), ROS, SolidWorks, MATLAB, SIMULINK(Robotics Toolbox)
 * <b> Summary </b>

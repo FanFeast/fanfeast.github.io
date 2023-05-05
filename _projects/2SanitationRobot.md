@@ -2,7 +2,7 @@
 title: "Sanitation Robot"
 collection: projects
 permalink: /projects/p2
-excerpt: 'Independent Group Project [June 2020 - Feburay 2021]'
+excerpt: 'Independent Group Project [June 2020 - February 2021]'
 ---
 [[report]](https://drive.google.com/file/d/1jr6RCCDWNcdROn00SAsmR9s1Q2w9nzuz/view?usp=share_link)
 * <b>Tech Stack:</b> Python, V-Rep, SolidWorks
