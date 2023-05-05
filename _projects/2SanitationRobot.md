@@ -18,7 +18,7 @@ excerpt: 'Independent Group Project [June 2020 - Feburay 2021]'
     <figcaption style="text-align: center;"><u><em>Fig-1 Pioneer3DX robot</em></u></figcaption>
     -  <p style="text-align: justify;">We used the older robot called Pioneer3dx as the base for our sanitation robot and then made significant upgrades to its design. We divided the robot into modular blocks, and each block was designed to perform a particular task. Block 1 contained the robot's motor and sensor controllers and battery, block 2 included sensors and wiring for camera and input, block 3 was responsible for dry, wet mop and vacuum, and block 0 was the UV light sanitation module.</p>
     <div style="text-align:center">
-    <img src="/images/Sanitation_Robot_1.png" alt="Robot_Render" style="width:500px;height:450px;">
+    <img src="/images/Sanitation_Robot_2.png" alt="Robot_Render" style="width:500px;height:450px;">
     </div>
     <figcaption style="text-align: center;"><u><em>Fig-2 Render of the Sanitation Robot</em></u></figcaption>
     -  <p style="text-align: justify;">The sanitation robot had two modes of operation, i.e., systematics clean-up and random. The systematics clean-up mode was triggered when the room was empty, and the robot followed a fixed path while sanitizing and mopping the entire place using the A*Star algorithm. On the other hand, the random mode enabled the robot to move randomly without colliding with objects/obstacles and humans.</p>
