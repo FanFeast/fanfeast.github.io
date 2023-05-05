@@ -4,7 +4,7 @@ collection: projects
 permalink: /projects/p6
 excerpt: 'Academic Group Project [January 2023 - May 2023]'
 ---
-
+[[GitHub]](https://github.com/zixinz990/tmotor_control.git)
 * <b>Tech Stack:Python, GitHub, AWS, GCP</b> 
 * <b> Summary </b>
   * Created an algorithm as a part of a team of four students to automate and improve the way to evaluate the best possible landing sites around pits on lunar surfaces based on the mesh grid data of the surface
