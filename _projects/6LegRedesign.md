@@ -5,9 +5,7 @@ permalink: /projects/p6
 excerpt: 'Academic Group Project [January 2023 - May 2023]'
 ---
 
-<b>Tech Stack:Python, GitHub, AWS, GCP</b> 
-
-* <b>Tech Stack:</b> C/C++ (Eigen3, Embree 3.0, fmt), GitHub 
+* <b>Tech Stack:Python, GitHub, AWS, GCP</b> 
 * <b> Summary </b>
   * Created an algorithm as a part of a team of four students to automate and improve the way to evaluate the best possible landing sites around pits on lunar surfaces based on the mesh grid data of the surface
   *  Implemented path planning algorithm that was used to identify points of entry for the rover to get close to the pit and to grab samples and photos of the pit in the most efficient way using A-star algorithm
