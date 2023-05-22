@@ -41,6 +41,6 @@ excerpt: 'Independent Group Project [October 2019 - December 2021]'
     </div>
     <figcaption style="text-align: center;"><u><em>Simulation-2 Motion capabilities of the Robot</em></u></figcaption>
 
-    * <p style="text-align: justify;"><b>Results</b><br>The simulations above show to final output of the projects depicting the capabilities of the robot. It can also be observed that the robot is fully capable of dropping down to the the much lower height as the limbs are out of plane for the robot. This increase the mobility in robot in cramped quatres and low lying ares. It can also be noted that the robot is able to maintain the same functionality as before without the increase in any additional constraints due to the redesigning of the legs. </p>
+    * <p style="text-align: justify;"><b>Results</b><br>The simulations above show to final output of the projects depicting the capabilities of the robot. It can also be observed that the robot is fully capable of dropping down to the much lower height as the limbs are out of plane for the robot. This increase the mobility in robot in cramped quatres and low lying ares. It can also be noted that the robot is able to maintain the same functionality as before without the increase in any additional constraints due to the redesigning of the legs. </p>
 
     
