@@ -17,10 +17,10 @@ author_profile: true
     * Deployed automation system for quality control to the existing production line identify glass print deflects and improve efficiency by 40%; deployed algorithm to identify defects in glass bottles with varying sizes and different types of glasses used.
     * Created a Python script to generate intelligence reports about prospective clients and potential sources for retail extracted from the international export databases based on their requirements production requirements based.
 
-<!-- <figure>
+<figure>
   <img src="/images/MS_Logo.png" alt = "Maruti" style="width:300px;height:150px;">
-  </figure> -->
-   <img src="a.jpg" onmouseover="this.src='b.jpg'" onmouseout="this.src='/images/MS_Logo.png'" /> 
+  </figure>
+   
 * <h2>Maruti Suzuki Private Limited</h2>
   <h3>Data Science Intern [January 2022 - Jun 2022]</h3>
   * <b>Tech Stack:</b> Python (PySpark, PyTorch), C/C++, Congos, PowerBi, AWS, Git, IBM-Cp4d 
