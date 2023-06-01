@@ -14,9 +14,8 @@ author_profile: true
 * <h2>PGP Glass Private Limited</h2>
   <h3>Data Science Intern [July 2022 - August 2022]</h3>
   * <b>Tech Stack:</b> Catia, SolidWorks, Coppelia Sims(V-Rep Simulator), Python (PyBullet), C/C++
+    * Deployed automation system for quality control to the existing production line identify glass print deflects and improve efficiency by 40%; deployed algorithm to identify defects in glass bottles with varying sizes and different types of glasses used.
     * Created a Python script to generate intelligence reports about prospective clients and potential sources for retail extracted from the international export databases based on their requirements production requirements based.
-    * Deployed automation for quality control at the company to identify glass print deflects and improve efficiency by 40%; deployed algorithm to identify defects in glass bottles with varying sizes and different types of glasses used.
-
 
 <figure>
   <img src="/images/MS_Logo.png" alt = "Maruti" style="width:300px;height:150px;">
