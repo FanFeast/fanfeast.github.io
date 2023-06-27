@@ -30,7 +30,7 @@ author_profile: true
 
 
 <figure>
-  <img src="/images/Hero_Logo.png" alt= "Hero" style="width:300px;height:150px;">
+  <img src="/images/Hero_Logo.png" alt= "Hero" style="width:300px;height:130px;">
   </figure>
 <h2>Hero Motor Corp</h2>
   <h3>Summer Intern [July 2021 - August 2021]</h3>
