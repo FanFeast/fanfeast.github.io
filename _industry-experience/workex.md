@@ -11,6 +11,7 @@ author_profile: true
 <figure>
   <img src="/images/PGP_Logo.png" alt="PGP LOGO" style="width:100px;height:200px;">
   </figure>
+
 * <h2>PGP Glass Private Limited</h2>
   <h3>Data Science Intern [July 2022 - August 2022]</h3>
   * <b>Tech Stack:</b> Catia, SolidWorks, Coppelia Sims(V-Rep Simulator), Python (PyBullet), C/C++
@@ -32,10 +33,11 @@ author_profile: true
 <figure>
   <img src="/images/Hero_Logo.png" alt= "Hero" style="width:300px;height:130px;">
   </figure>
-<h2>Hero Motor Corp</h2>
+
+* <h2>Hero Motor Corp</h2>
   <h3>Summer Intern [July 2021 - August 2021]</h3>
   * <b>Tech Stack:</b> Python ,MS Office 
-  * Proposed a new packaging label design in compliance with Package Commodity Act
-  * Performed packaging data analysis of the packaging data
-  * Utilized Python for data correction and auto-identifying errors in the database
+    * Proposed a new packaging label design in compliance with Package Commodity Act
+    * Performed packaging data analysis of the packaging data
+    * Utilized Python for data correction and auto-identifying errors in the database
 
