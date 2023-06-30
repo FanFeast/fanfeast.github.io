@@ -8,6 +8,7 @@ main:
 
   - title: "Projects"
     url: /projects/
+    
   # - title: "Talks"
   #   url: /talks/    
 
@@ -23,7 +24,7 @@ main:
 
   - title: "Fun Section"
     url: /fun/
-    
+
   #- title: "Blog Posts"
   #  url: /year-archive/
   
