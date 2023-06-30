@@ -21,8 +21,8 @@ main:
     url: /cv/
   
 
-  # - title: "Fun Section"
-  #   url: /fun/
+  - title: "Fun Section"
+    url: /fun/
   #- title: "Blog Posts"
   #  url: /year-archive/
   
