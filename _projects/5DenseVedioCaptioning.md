@@ -9,4 +9,4 @@ excerpt: 'Academic Group Project [January 2023 - May 2023]'
 * <b> Summary </b>
     -  <p style="text-align: justify;">Utilizing PDVC utilizing a LLM model</p>
 
-* <b>In-Depth</b>
+* <b>In-Depth</b>x
