@@ -2,7 +2,7 @@
 title: "Sanitation Robot"
 collection: projects
 permalink: /projects/p2
-excerpt: 'Independent Group Project [June 2020 - February 2021]<br/><video src="/images/Leg_Design_Video_0.mp4" style="width:550px;height:300px;">'
+excerpt: 'Independent Group Project [June 2020 - February 2021]<br/><video src="/images/Sanitation_Robot_Video.mp4" style="width:550px;height:300px;">'
 ---
 [[report]](https://drive.google.com/file/d/1jr6RCCDWNcdROn00SAsmR9s1Q2w9nzuz/view?usp=share_link)
 * <b>Tech Stack:</b> Python, V-Rep(coppeliaSim), SolidWorks
