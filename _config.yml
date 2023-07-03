@@ -264,7 +264,7 @@ defaults:
       comments: true
       share: true
       related: true
-  # _industry-experience
+  # Fun_Section
   - scope:
       path: ""
       type: fun
