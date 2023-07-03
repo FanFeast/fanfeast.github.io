@@ -4,7 +4,7 @@ collection: projects
 permalink: /projects/p1
 excerpt: 'Academic Group Project [February 2019 - June 2019]'
 ---
-[[ppt]](https://drive.google.com/file/d/1fDlhmy92fneQvs5S2rchI1xwu83uIL0T/view?usp=share_link)[[report]](https://drive.google.com/file/d/1fDlhmy92fneQvs5S2rchI1xwu83uIL0T/view?usp=share_link)
+[[ppt]](https://docs.google.com/presentation/d/1_57ccbR8nCEr0TfNH0ol0-0ip0RJ33oe/edit?usp=sharing&ouid=114350528429388663351&rtpof=true&sd=true)[[report]](https://drive.google.com/file/d/1fDlhmy92fneQvs5S2rchI1xwu83uIL0T/view?usp=share_link)
 
 * <b>Tech Stack:</b> Fusion360, Ansys, Autodesk CFD , Catia 
 * <b> Summary </b>
