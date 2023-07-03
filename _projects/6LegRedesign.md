@@ -2,7 +2,7 @@
 title: "Passive Energy Saving Robot Leg Design"
 collection: projects
 permalink: /projects/p6
-excerpt: 'Academic Group Project [January 2023 - May 2023]'
+excerpt: 'Academic Group Project [January 2023 - May 2023]<br/><video src="/images/Leg_Design_Video_0.mp4" controls="controls" style="max-height: 300px;">'
 ---
 [[GitHub]](https://github.com/zixinz990/tmotor_control.git)
 * <b>Tech Stack:</b> Python, GitHub, C/C++ 
