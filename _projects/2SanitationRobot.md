@@ -36,6 +36,6 @@ excerpt: 'Independent Group Project [June 2020 - February 2021]<br/><video src="
     * <p style="text-align: justify;"><b>Conclusion</b><br>In conclusion, we successfully designed and built a modular sanitation robot that could be easily upgraded or downgraded by adding or removing specific blocks. We sold nine prototypes of the robot to initial investors, particularly those who owned libraries and gyms, as they would benefit the most from such a product. The robot's two modes of operation, i.e., systematics clean-up and random, provided flexibility in its functionality, making it a reliable and effective solution for customers.</p>
     
     <div style="text-align:center">
-    <video src="/images/Sanitation_Robot_Video.mp4" controls="controls" style="width:750px;height:500px;"></video>
+    <video src="/images/Sanitation_Robot_Video_Simulation.mp4" controls="controls" style="width:750px;height:500px;"></video>
     </div>
     <figcaption style="text-align: center;"><u><em>Simulation-1 Random Motion capabilities of the Robot</em></u></figcaption>
