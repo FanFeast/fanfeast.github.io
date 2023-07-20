@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-<h1>Research</h1>
 <p><b>Research Interest : </b>Multimodal Machine Learning, Computer Vision, System Designing, Object Detection,  </p>
 
 <p><h2><a href="http://biorobotics.ri.cmu.edu/index.php">Biorobotics Laboratory</a>- CARNEGIE MELLON UNIVERSITY</h2></p>
@@ -17,6 +16,6 @@ author_profile: true
   - Research Area : Computer Vision, Classification, Object Detection and Tracking, System Design and Automation
   - <b>Tech Stack : </b> Robot Operating System (ROS) · CAN bus · CANopen · SOLIDWORKS · Computer Vision · MATLAB · Modeling and Simulation · C++ · Python · CVAT · Python (Programming Language) 
   - [E-Waste Management](https://www.cmu.edu/news/stories/archives/2021/july/device-recycling.html)
-    - Creating Automated System Policy for component removal using a [UR3](https://www.universal-robots.com/products/ur3-robot/) arm using computer vision for creating a closed loop control system.
+    - Creating Automated System Policy for component removal using a UR3 arm using computer vision for creating a closed loop control system.
     - Designing multiple system for various stages of recycling and retreving rare earth materials from different components.
     - Developed a robust data pipeline for the automated generation of hyper-realistic images using Blender, specifically designed for enhancing the adaptability of machine learning models. Created synthetic data with variations including broken glass, stickers, and other deformations to simulate real-world scenarios. 
