@@ -85,8 +85,8 @@ author:
   bio              : "Robotics/ML Grad Student at Carnegie Mellon University | BTech. Mechanical Engineering, VIT Vellore "
   location         : "Pittsburgh, PA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "mukulganwal@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "mukul-ganwal"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "FanFeast_"
   vine             :
   weibo            :
   xing             :
@@ -213,7 +213,7 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true
+      # related: true
   # _pages
   - scope:
       path: ""
@@ -266,7 +266,7 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true
+      # related: true
   # Fun_Section
   - scope:
       path: ""
@@ -277,7 +277,7 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true
+      # related: true
   # _projects
   - scope:
       path: ""
@@ -288,7 +288,7 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true
+      # related: true
   # _research
   - scope:
       path: ""
@@ -299,7 +299,7 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true
+      # related: true
 
 # Sass/SCSS
 sass:
