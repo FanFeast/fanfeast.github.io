@@ -1,10 +1,10 @@
 ---
-title: "Lunar Rover Landing Site Analysis & Path Planner"
+title: "Lunar PitProbe: Auto Landing & Efficient Rover Routing"
 collection: projects
 permalink: /projects/p4
 excerpt: 'Academic Group Project [September 2022 - December 2022]<br/><img src="/images/Lunar_project_Site_Evaluator_Working.gif" style="width:300px;height:300px;">'
 ---
-[[ppt]](https://docs.google.com/presentation/d/14eA6XsbJ2c8gRGJ7MdhdhHJT0oORI3D_/edit?usp=sharing&ouid=114350528429388663351&rtpof=true&sd=true)[[GitHub]](https://github.com/FanFeast/Landing_Site_Navigation_and_Path_Planning)
+[[ppt]](https://docs.google.com/presentation/d/14eA6XsbJ2c8gRGJ7MdhdhHJT0oORI3D_/edit?usp=sharing&ouid=114350528429388663351&rtpof=true&sd=true) [[GitHub]](https://github.com/FanFeast/Landing_Site_Navigation_and_Path_Planning)
 
 * <b>Tech Stack:</b> C/C++ (Eigen3, Embree 3.0, fmt), GitHub 
 * <b> Summary </b>

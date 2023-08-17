@@ -11,8 +11,9 @@ redirect_from:
 
 <p><h3><span style="text-align:left; display:inline-block; width:50%;">CARNEGIE MELLON UNIVERSITY</span><span style="text-align:right; display:inline-block; width:50%;">July 2022 - December 2023</span></h3></p>
 
-  *  GPA - 3.84 
-  *  Relevant Course Work - Robot Dynamics and Analysis (F22), ML & AI for Engineers (F22), Modern Control Theory(F22), Trustworthy AI Autonomy(S23), Introduction to Deep Learning (S23), Bio-Inspired Robot design(S23)
+  *  GPA - 3.90 
+  *  <b>Teaching Assistant</b> Fall2023-Robot Dynamics and Analysis (24760)
+  *  Relevant Course Work : Robot Dynamics and Analysis(A), ML & AI for Engineers(A), Trustworthy AI Autonomy(A), Introduction to Deep Learning(A), Bioinspired Robot design(A)
 
 
 
