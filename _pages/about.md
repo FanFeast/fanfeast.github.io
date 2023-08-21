@@ -11,7 +11,7 @@ redirect_from:
 
 Here is my [Curriculum Vitae](https://drive.google.com/file/d/1Pv4QIjtLb7fNwBkT1D-uygMsROLjFHwo/view?usp=sharing)
 
-# Unveiling the Journey of Mukul Ganwal 🚀
+<b> Unveiling the Journey of Mukul Ganwal 🚀</b>
 
 In the dynamic realm where engineering, innovation, and curiosity converge, you'll find me – Mukul Ganwal. As you delve into this profile, I invite you to explore the facets of my academic voyage, skill repertoire, work endeavors, and the remarkable projects that define my passion and determination.
 
