@@ -9,7 +9,7 @@ redirect_from:
 ---
 <i>"My heart in my work" - Andrew Carnegie</i>
 
-Here is my [Curriculum Vitae](https://drive.google.com/file/d/1GYcew5kBw3_WFqc8hZzLoeDUtW4_6sd7/view?usp=sharing)
+Here is my [Curriculum Vitae](https://drive.google.com/file/d/1LTg-AeypZPNWX9ubYd9baCvUlqY7teAw/view?usp=sharing)
 
 <b> Unveiling the Journey of Mukul Ganwal 🚀</b>
 
