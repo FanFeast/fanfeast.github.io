@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 <figure>
-  <img src="/images/AWR_Logo.png" alt="AWR LOGO" style="width:400px;height:150px;">
+  <img src="/images/AWR_Logo.png" alt="AWR LOGO" style="width:400px;height:100px;">
   </figure>
 * <h2>Anyware Robotics</h2> 
   <h3>Perception Engineer [ Jan 2024 - Present ]</h3>
