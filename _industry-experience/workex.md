@@ -9,9 +9,17 @@ author_profile: true
 {% include base_path %}
 
 <figure>
+  <img src="/images/AWR_Logo.png" alt="AWR LOGO" style="width:400px;height:150px;">
+  </figure>
+* <h2>Anyware Robotics</h2> 
+  <h3>Perception Engineer [ Jan 2024 - Present ]</h3>
+  - Led the development of an advanced Blender-based pipeline for synthetic data generation, significantly enhancing the robustness and generalizability of AI models across diverse applications, leading to more reliable and adaptable machine learning solutions.
+  - Expertly leveraged foundation models and zero-shot learning techniques to elevate AI model performance in novel scenarios, optimizing generalizability and reliability, thereby advancing the frontier of machine learning applications in real-world contexts.
+
+
+<figure>
   <img src="/images/PGP_Logo.png" alt="PGP LOGO" style="width:100px;height:200px;">
   </figure>
-
 * <h2>PGP Glass Private Limited</h2>
   <h3>Data Science Intern [July 2022 - August 2022]</h3>
   - <b>Tech Stack:</b> Catia, SolidWorks, Coppelia Sims(V-Rep Simulator), Python (PyBullet), C/C++
