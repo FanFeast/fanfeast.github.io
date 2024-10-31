@@ -9,43 +9,57 @@ author_profile: true
 {% include base_path %}
 
 <figure>
-  <img src="/images/AWR_Logo.png" alt="AWR LOGO" style="width:400px;height:100px;">
-  </figure>
-* <h2>Anyware Robotics</h2> 
-  <h3>Perception Engineer [ Jan 2024 - Present ]</h3>
-  - Led the development of an advanced Blender-based pipeline for synthetic data generation, significantly enhancing the robustness and generalizability of AI models across diverse applications, leading to more reliable and adaptable machine learning solutions.
-  - Expertly leveraged foundation models and zero-shot learning techniques to elevate AI model performance in novel scenarios, optimizing generalizability and reliability, thereby advancing the frontier of machine learning applications in real-world contexts.
+  <div class="company-header" data-hover="/images/AWR_Logo.png">
+    <img src="/images/AWR_Logo.png" alt="AWR LOGO" width="400" height="100">
+  </div>
+</figure>
 
+## Anyware Robotics
+**Perception Engineer** [Jan 2024 - Present]  
+- Implemented an ML Ops pipeline for continuous active learning.
+- Performed model quantization for edge deployment with TensorRT and ONNX.
+- Developed a Blender-based synthetic data generation pipeline.
+- Applied foundation models and zero-shot learning to improve model generalizability.
 
-<figure>
-  <img src="/images/PGP_Logo.png" alt="PGP LOGO" style="width:100px;height:200px;">
-  </figure>
-* <h2>PGP Glass Private Limited</h2>
-  <h3>Data Science Intern [July 2022 - August 2022]</h3>
-  - <b>Tech Stack:</b> Catia, SolidWorks, Coppelia Sims(V-Rep Simulator), Python (PyBullet), C/C++
-  - Deployed automation system for quality control to the existing production line identify glass print deflects and improve efficiency by 40%; deployed algorithm to identify defects in glass bottles with varying sizes and different types of glasses used.
-  - Created a Python script to generate intelligence reports about prospective clients and potential sources for retail extracted from the international export databases based on their requirements production requirements based.
+---
 
 <figure>
-  <img src="/images/MS_Logo.png" alt = "Maruti" style="width:300px;height:150px;">
-  </figure>
-   
-* <h2>Maruti Suzuki Private Limited</h2>
-  <h3>Data Science Intern [January 2022 - Jun 2022]</h3>
-  - <b>Tech Stack:</b> Python (PySpark, PyTorch), C/C++, Congos, PowerBi, AWS, Git, IBM-Cp4d 
-  - Creating a preprocessing pipeline using PySpark to enhance the data pre-processing speed by 20% while utilizing up to 30% of lesser resources; also improving the modularity of the existing code and increasing its efficiency 
-  - Created a database to identify the best location for electric vehicle charging location
-  - Built a warning system to warn the vehicle owner about a possible failure based on data obtained from other consumers.
+  <div class="company-header" data-hover="/images/PGP_Logo.png">
+    <img src="/images/PGP_Logo.png" alt="PGP LOGO" width="100" height="200">
+  </div>
+</figure>
 
+## PGP Glass Private Limited
+**Data Science Intern** [July 2022 - August 2022]  
+- **Tech Stack:** Catia, SolidWorks, Coppelia Sims (V-Rep Simulator), Python (PyBullet), C/C++.
+- Deployed a quality control automation system for glass defect detection.
+- Created Python scripts to generate intelligence reports from export databases.
+
+---
 
 <figure>
-  <img src="/images/Hero_Logo.png" alt= "Hero" style="width:300px;height:130px;">
-  </figure>
+  <div class="company-header" data-hover="/images/MS_Logo.png">
+    <img src="/images/MS_Logo.png" alt="Maruti LOGO" width="300" height="150">
+  </div>
+</figure>
 
-* <h2>Hero Motor Corp</h2>
-  <h3>Summer Intern [July 2021 - August 2021]</h3>
-  - <b>Tech Stack:</b> Python ,MS Office 
-  - Proposed a new packaging label design in compliance with Package Commodity Act
-  - Performed packaging data analysis of the packaging data
-  - Utilized Python for data correction and auto-identifying errors in the database
+## Maruti Suzuki Private Limited
+**Data Science Intern** [January 2022 - June 2022]  
+- **Tech Stack:** Python (PySpark, PyTorch), C/C++, Congos, PowerBI, AWS, Git, IBM-Cp4d.
+- Enhanced preprocessing pipeline with PySpark, improving speed and efficiency.
+- Built a database for electric vehicle charging station locations.
+- Developed a warning system for vehicle failure prediction.
 
+---
+
+<figure>
+  <div class="company-header" data-hover="/images/Hero_Logo.png">
+    <img src="/images/Hero_Logo.png" alt="Hero LOGO" width="300" height="130">
+  </div>
+</figure>
+
+## Hero Motor Corp
+**Summer Intern** [July 2021 - August 2021]  
+- **Tech Stack:** Python, MS Office.
+- Designed packaging labels in compliance with the Packaging Commodity Act.
+- Conducted packaging data analysis and error detection using Python.
