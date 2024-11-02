@@ -1,7 +1,7 @@
 ---
-title: ["CutScene - For Next Best View Prediction"](https://adityarauniyar.com/cutscene.github.io/)
+title: "CutScene - For Next Best View Prediction"
 collection: projects
-# permalink: /projects/p7
+permalin/k: https://adityarauniyar.com/cutscene.github.io/
 excerpt: 'Academic Group Project [January 2023 - May 2023]<br/><video src="/images/CutScene-Augmentation.gif" controls="controls" style="max-height: 300px;">>'
 ---
 
