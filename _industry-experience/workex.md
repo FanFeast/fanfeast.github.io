@@ -3,18 +3,31 @@ layout: archive
 title: "Industry Experience"
 permalink: /industry-experience/
 author_profile: true
-
 ---
 
 {% include base_path %}
 
+<style>
+  .company-header img {
+    width: 250px;
+    height: auto; /* Maintain aspect ratio */
+  }
+  .title-link {
+    text-decoration: none;
+    color: inherit;
+  }
+  .title-link:hover {
+    text-decoration: underline;
+  }
+</style>
+
 <figure>
   <div class="company-header" data-hover="/images/AWR_Logo.png">
-    <img src="/images/AWR_Logo.png" alt="AWR LOGO" width="400" height="100">
+    <img src="/images/AWR_Logo.png" alt="AWR LOGO">
   </div>
 </figure>
 
-## Anyware Robotics
+## <a href="https://www.google.com" class="title-link">Anyware Robotics</a>
 **Perception Engineer** [Jan 2024 - Present]  
 - Implemented an ML Ops pipeline for continuous active learning.
 - Performed model quantization for edge deployment with TensorRT and ONNX.
@@ -25,11 +38,11 @@ author_profile: true
 
 <figure>
   <div class="company-header" data-hover="/images/PGP_Logo.png">
-    <img src="/images/PGP_Logo.png" alt="PGP LOGO" width="100" height="200">
+    <img src="/images/PGP_Logo.png" alt="PGP LOGO">
   </div>
 </figure>
 
-## PGP Glass Private Limited
+## <a href="https://www.google.com" class="title-link">PGP Glass Private Limited</a>
 **Data Science Intern** [July 2022 - August 2022]  
 - **Tech Stack:** Catia, SolidWorks, Coppelia Sims (V-Rep Simulator), Python (PyBullet), C/C++.
 - Deployed a quality control automation system for glass defect detection.
@@ -39,11 +52,11 @@ author_profile: true
 
 <figure>
   <div class="company-header" data-hover="/images/MS_Logo.png">
-    <img src="/images/MS_Logo.png" alt="Maruti LOGO" width="300" height="150">
+    <img src="/images/MS_Logo.png" alt="Maruti LOGO">
   </div>
 </figure>
 
-## Maruti Suzuki Private Limited
+## <a href="https://www.google.com" class="title-link">Maruti Suzuki Private Limited</a>
 **Data Science Intern** [January 2022 - June 2022]  
 - **Tech Stack:** Python (PySpark, PyTorch), C/C++, Congos, PowerBI, AWS, Git, IBM-Cp4d.
 - Enhanced preprocessing pipeline with PySpark, improving speed and efficiency.
@@ -54,11 +67,11 @@ author_profile: true
 
 <figure>
   <div class="company-header" data-hover="/images/Hero_Logo.png">
-    <img src="/images/Hero_Logo.png" alt="Hero LOGO" width="300" height="130">
+    <img src="/images/Hero_Logo.png" alt="Hero LOGO">
   </div>
 </figure>
 
-## Hero Motor Corp
+## <a href="https://www.google.com" class="title-link">Hero Motor Corp</a>
 **Summer Intern** [July 2021 - August 2021]  
 - **Tech Stack:** Python, MS Office.
 - Designed packaging labels in compliance with the Packaging Commodity Act.
