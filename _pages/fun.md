@@ -9,10 +9,6 @@ author_profile: true
 <p><h3><span style="text-align:left; display:inline-block; width:50%;">Fun Facts</span></h3></p>
 *“If it’s not fun, you’re not doing it right.” - Bob Basso*
 
-#### About Me
-
-Hey there! I'm Mukul Ganwal, and I'm all about embracing life's diverse adventures. Here's a glimpse into what keeps me energized and driven:
-
 #### 🦾 Robot Enthusiast
 
 My passion for technology and innovation shines through in my love for designing and building robots. Whether it's crafting intricate mechanisms or coding their behavior, I'm fascinated by the world of robotics and the limitless possibilities it offers.
