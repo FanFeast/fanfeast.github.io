@@ -86,9 +86,9 @@ analytics:
 author:
   name             : "Mukul Ganwal"
   avatar           : "avatar.jpg"
-  bio              : "Robotics/ML Grad Student at Carnegie Mellon University | BTech. Mechanical Engineering, VIT Vellore "
+  bio              : "Perception Engineer @AnywareRobotics | Robotics/ML @CarnegieMellonUniversity"
   location         : "Pittsburgh, PA"
-  employer         :
+  employer         : "Anyware Robotics"
   pubmed           : 
   googlescholar    : 
   email            : "mukulganwal@gmail.com"
@@ -111,7 +111,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : 
   tumblr           :
   twitter          : "FanFeast_"
   vine             :
