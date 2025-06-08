@@ -11,7 +11,7 @@ author_profile: true
 
 #### About Me
 
-Hey there! I'm [Your Name], and I'm all about embracing life's diverse adventures. Here's a glimpse into what keeps me energized and driven:
+Hey there! I'm Mukul Ganwal, and I'm all about embracing life's diverse adventures. Here's a glimpse into what keeps me energized and driven:
 
 #### 🦾 Robot Enthusiast
 
