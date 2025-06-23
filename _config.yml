@@ -87,7 +87,7 @@ author:
   name             : "Mukul Ganwal"
   avatar           : "avatar.jpg"
   bio              : "Perception Engineer @AnywareRobotics | Robotics/ML @CarnegieMellonUniversity"
-  location         : "Pittsburgh, PA"
+  location         : "Santa Clara, CA"
   employer         : "Anyware Robotics"
   pubmed           : 
   googlescholar    : 
@@ -168,6 +168,7 @@ excerpt_separator: "\n\n"
 incremental: false
 
 
+incremental: false
 # Markdown Processing
 kramdown:
   input: GFM

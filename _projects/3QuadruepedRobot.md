@@ -2,7 +2,7 @@
 title: "Quadruped Robot"
 collection: projects
 permalink: /projects/p3
-excerpt: 'Independent Group Project [October 2019 - December 2021]<br/><video src="/images/Quad_project_simulation_3.mp4" controls="controls" style="max-height: 300px;">'
+excerpt: 'Independent Group Project [October 2019 - December 2021]<br/><video src="/images/project_images/QuadrupedRobot/Quad_project_simulation_3.mp4" controls="controls" style="max-height: 300px;">'
 ---
 [[Notion]](https://common-bathtub-ada.notion.site/Quadrupled-Project-5025fb31b81147499df83d656a3e7b42) [[GitHub]](https://github.com/FanFeast/Quadruped_Robot)
 
@@ -16,14 +16,14 @@ excerpt: 'Independent Group Project [October 2019 - December 2021]<br/><video sr
     *  <p style="text-align: justify;"><b>Introduction</b><br>The idea behind the project was to redesign and create a new leg design for quadruped robots, which are robots designed with four legs and have several practical applications. They can navigate difficult terrain and environments that are inaccessible to wheeled or bipedal robots, making them useful for tasks such as search and rescue operations or exploration of rough terrain. Quadruped robots can also be used for inspection and maintenance of industrial equipment or infrastructure, as well as for agricultural applications such as herding livestock or monitoring crops. In addition, the stability provided by four legs makes quadruped robots well-suited for tasks that require high precision or stability, such as carrying and manipulating heavy objects.</p>
 
     <div style="text-align:center">
-    <img src="/images/Quad_project_render_1.png" alt="Robot_Render" style="width:700px;height:300px;">
+    <img src="/images/project_images/QuadrupedRobot/Quad_project_render_1.png" alt="Robot_Render" style="width:700px;height:300px;">
     </div>
     <figcaption style="text-align: center;"><u><em>Fig-1 Render Image of the robot</em></u></figcaption>
   
     * <p style="text-align: justify;"><b>Motivation</b><br>The goal of the project was to re-create the leg design to increase the workspace of the robots legs. Legged robots, which are robots designed with legs instead of wheels, have become increasingly important in recent years. One of the main advantages of legged robots is their ability to navigate complex and uneven terrain, making them ideal for applications such as search and rescue, exploration, and inspection of hazardous environments. Additionally, legged robots can be used for tasks that require greater dexterity and mobility, such as manipulating objects or interacting with humans. Legged robots can also operate in environments where wheeled robots or other types of vehicles may be unable to operate, such as rocky or steep terrain, or in disaster-stricken areas with debris on the ground.</p>
     
     <div style="text-align:center">
-    <img src="/images/Quad_project_Leg_Redesign.png" alt="Robot_Render" style="width:550px;height:300px;">
+    <img src="/images/project_images/QuadrupedRobot/Quad_project_Leg_Redesign.png" alt="Robot_Render" style="width:550px;height:300px;">
     </div>
     <figcaption style="text-align: center;"><u><em>Fig-2 Redesigned Leg with out of plane joints</em></u></figcaption>
     
@@ -32,12 +32,12 @@ excerpt: 'Independent Group Project [October 2019 - December 2021]<br/><video sr
     * <p style="text-align: justify;">The kinematic analysis and the mathematical calculations behind the robot can be found on the <b><a href= "https://common-bathtub-ada.notion.site/Quadrupled-Project-5025fb31b81147499df83d656a3e7b42">[Notion page]</a></b>.</p>
 
     <div style="text-align:center">
-    <video src="/images/Quad_project_simulation_1.mp4" controls="controls" style="max-width: 750px;"></video>
+    <video src="/images/project_images/QuadrupedRobot/Quad_project_simulation_1.mp4" controls="controls" style="max-width: 750px;"></video>
     </div>
     <figcaption style="text-align: center;"><u><em>Simulation-1 Standstill movement capabilities of the Robot</em></u></figcaption>
 
     <div style="text-align:center">
-    <video src="/images/Quad_project_simulation_2.mp4" controls="controls" style="max-width: 750px;"></video>
+    <video src="/images/project_images/QuadrupedRobot/Quad_project_simulation_2.mp4" controls="controls" style="max-width: 750px;"></video>
     </div>
     <figcaption style="text-align: center;"><u><em>Simulation-2 Motion capabilities of the Robot</em></u></figcaption>
 

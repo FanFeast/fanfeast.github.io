@@ -2,7 +2,7 @@
 title: "Dense Video Captioning"
 collection: projects
 permalink: /projects/p5
-excerpt: 'Academic Group Project [January 2023 - May 2023]<br/><img src="/images/xukun_en.gif" style="width:400px;height:300px;">'
+excerpt: 'Academic Group Project [January 2023 - May 2023]<br/><img src="/images/project_images/DenseVideoCaptioning/xukun_en.gif" style="width:400px;height:300px;">'
 ---
 [[GitHub]](https://github.com/ologandavid/DenseVideoCaptioning)
 * <b>Tech Stack:</b> Python, GitHub, AWS, GCP

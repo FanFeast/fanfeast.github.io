@@ -17,26 +17,26 @@ excerpt: 'Academic Group Project [February 2019 - June 2019]'
     <p style="text-align: justify;">Currently in market there are two primary methods of producing oxygen: Pressure Swing Adsorption (Fig-1) and Membrane Gas Separation (Fig-2). Pressure Swing Adsorption and Membrane Gas Separation are two methods for producing concentrated oxygen. Pressure Swing Adsorption uses a process where air is compressed and passed through sieve beds containing Zeolite to absorb nitrogen, leaving oxygen-rich air. The process is cyclic with two sieve beds, and a cooling system and nasal cannula deliver the purified oxygen. In contrast, Membrane Gas Separation uses a non-porous polymeric membrane material to allow the rapid passage of oxygen molecules while minimizing the passage of others. Compressed air is directed down the center of the module fibers, where oxygen molecules pass through the wall of the fiber, and nitrogen molecules continue down the hollow fiber and exit at the opposite end.</p> 
     
     <div style="text-align:center">
-    <img src="/images/Oxygen_con_1.gif" alt="Working" style="width:400px;height:400px;">
+    <img src="/images/project_images/OxygenConcentrator/Oxygen_con_1.gif" alt="Working" style="width:400px;height:400px;">
     </div>
     <figcaption style="text-align: center;"><u><em>Fig-1 Pressure Swing Adsorption Workflow</em></u></figcaption>
     
     <div style="text-align:center">
-    <img src="/images/Oxygen_con_2.png" alt="Robot_Render" style="width:700px;height:300px;">
+    <img src="/images/project_images/OxygenConcentrator/Oxygen_con_2.png" alt="Robot_Render" style="width:700px;height:300px;">
     </div>
     <figcaption style="text-align: center;"><u><em>Fig-2 Membrane Gas Separation Working</em></u></figcaption>
     
     * <p style="text-align: justify;"><b>Motivation</b><br>The motivation behind this project is to provide a cost-effective and lightweight alternative to oxygen cylinders for mountaineers. Currently, mountaineers have to carry heavy oxygen cylinders with them on their journey, which can be a major inconvenience and financial burden. Our goal is to make it easier for mountaineers to breathe in high-altitude environments, so they can enjoy the terrain without being weighed down.</p>
 
     <div style="text-align:center">
-    <img src="/images/Oxygen_con_2.png" alt="Robot_Render" style="width:700px;height:300px;">
+    <img src="/images/project_images/OxygenConcentrator/Oxygen_con_2.png" alt="Robot_Render" style="width:700px;height:300px;">
     </div>
     <figcaption style="text-align: center;"><u><em>Fig-3 Isotropic view of the CAD-design</em></u></figcaption>
     
     * <p style="text-align: justify;"><b>Objective</b><br>The objective of this project is to create a device that uses chemical reactions to produce clean oxygen and water, making it a more sustainable option compared to traditional oxygen cylinders. The device should be portable, lightweight, and affordable, so that it can be easily carried by mountaineers during their journey. By using this device, mountaineers will no longer have to rely on heavy oxygen cylinders and can instead breathe in clean oxygen, which will help them acclimate to high-altitude environments more easily. Ultimately, our goal is to create a safer and more enjoyable experience for mountaineers.</p> 
     
     <div style="text-align:center">
-    <img src="/images/Oxygen_con_2.png" alt="Robot_Render" style="width:700px;height:300px;">
+    <img src="/images/project_images/OxygenConcentrator/Oxygen_con_2.png" alt="Robot_Render" style="width:700px;height:300px;">
     </div>
     <figcaption style="text-align: center;"><u><em>Fig-4 Top and Bottom View of the CAD-Design</em></u></figcaption>
     
