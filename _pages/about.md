@@ -7,86 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<i>"My heart in my work" - Andrew Carnegie</i>
 
-Here is my [Curriculum Vitae](https://drive.google.com/file/d/1tAPE86ZtibBmbd4i2_nG6GHSmxvyKsb3/view?usp=sharing)
+Hi, I'm **Mukul Ganwal** - a passionate roboticist driven by my love for robots and their potential to transform our world. 
 
-<b> Unveiling the Journey of Mukul Ganwal 🚀</b>
+Here's my [Curriculum Vitae](https://drive.google.com/file/d/1tAPE86ZtibBmbd4i2_nG6GHSmxvyKsb3/view?usp=sharing) for detailed information.
 
-In the dynamic realm where engineering, innovation, and curiosity converge, you'll find me – Mukul Ganwal. As you delve into this profile, I invite you to explore the facets of my academic voyage, skill repertoire, work endeavors, and the remarkable projects that define my passion and determination.
+I am a Perception and MLOps Engineer at Anyware Robotics, where I lead a 4-person team developing end-to-end robotic palletizing systems that integrate computer vision with industrial automation. My work focuses on building production-grade machine learning pipelines that enable robots to understand and interact with complex real-world environments. Currently, I'm shipping systems that use RGB-D cameras and advanced perception algorithms to reconstruct work cells in 0.1 seconds, allowing FANUC robots to palletize boxes with 6.3-second cycle times.
 
-## Skills: The Toolbox 🛠️
+My expertise lies at the intersection of robotics, computer vision, and MLOps. I specialize in creating active-learning workflows that dramatically reduce data labeling requirements - achieving 40% reductions in manual annotation while maintaining rapid 40-minute test-to-deploy cycles. I've pioneered the use of synthetic data generation through Blender photogrammetry combined with StyleGAN3 domain randomization, scaling datasets by 8× and improving detection performance by 4.7 percentage points. My systems integrate seamlessly with ROS 2 architectures, incorporating behavior trees and hierarchical finite-state machines with real-time fault classification that has reduced unplanned robot downtime by 35%.
 
-In the realm of coding, machines, and data, I'm well-versed in a variety of tools:
+Before joining Anyware Robotics, I honed my skills as a Graduate Research Assistant at the BioRobotics Lab in Pennsylvania, where I engineered modular battery extraction mechanisms for Apple devices and built real-time multi-class instance segmentation pipelines achieving 98% accuracy. My journey into robotics and AI began with internships at PGP Glass and other companies, where I developed visual inspection systems with 99% defect detection accuracy and created intelligence systems that transformed business operations.
 
-- 🔧 **Programming Languages**: Python, C/C++, MATLAB, Scala, R, Linux, Shell, SQL  
-- 🤖 **Machine Learning Tools**: TensorFlow, Keras, PyTorch, Cuda, Scikit, PowerBI, Cognos  
-- 🛠️ **Tools/Software**: SolidWorks, ANSYS, Fusion360, Catia, IBM Cp4d, AWS, GCP, Git, ROS
+My technical toolkit spans **PyTorch, TensorFlow, Ray, Keras, JAX, CUDA, and ROS/ROS2** for ML and robotics, complemented by **Docker, Kubernetes, GitHub Actions, Terraform, AWS, and GCP** for robust MLOps deployments. I'm proficient in **Python, C/C++, MATLAB, and Bash** across **Ubuntu, Debian, and FreeRTOS** environments, with expertise in simulation platforms like **Webots, Gazebo, and V-Rep** alongside CAD tools like **SolidWorks**.
 
-## Navigating Work and Research 🚀
+What drives me is the belief that robots can fundamentally improve how we work and live. Every system I build bridges the gap between cutting-edge AI research and practical robotic applications that deliver measurable impact in real manufacturing environments.
 
-### Crafting the Future at Biorobotics Lab (Apple Project), PA | Apr '23 - Present
-
-As a **Graduate Research Assistant**:
-- 🤖 Orchestrating precision with UR3 arm and computer vision for component removal.
-- 🔄 Pioneering recycling systems for the recovery of rare earth materials.
-- 🌐 Bridging real-world scenarios and machine learning with Blender-based data pipelines.
-
-### Illuminating Quality Control at PGP Glass Private Ltd., Vadodara, India | Jul '22 - Aug '22
-
-As a **Data Science Intern**:
-- 🕵️‍♂️ Igniting efficiency with automated quality control using template matching algorithms.
-- 🌐 Transforming data into intelligence, extracting insights from international export databases.
-
-### The Data Trail at Maruti Suzuki India Ltd., Bangalore, India | Jan '22 - May '22
-
-As a **Data Science Intern**:
-- 🛠️ Carving efficiency paths with PySpark's data preprocessing prowess.
-- 🚗 Envisioning electric vehicle charging locations and building data-driven warning systems.
-
-### Propelling Operations at Hero MotoCorp Ltd., Vadodara, India | Jul '21 - Aug '21
-
-As a **Summer Intern – Operations Function**:
-- 📦 Crafting compliance with packaging design, aligned with the Package Commodity Act.
-- 💡 Leveraging Python to unveil packaging data insights and improvements.
-
-## A Glimpse into My Academic Odyssey 🌟
-
-### Breathing Life into Videos with Dense Video Captioning | Carnegie Mellon University | Jan '22 - May '22
-
-- 🎬 Redefining video captioning with a semantic alignment approach.
-- 📈 Amplifying performance by 20% over baseline using PyTorch and AWS.
-
-### Revolutionizing Efficiency with an Energy-Efficient Robot Leg | Carnegie Mellon University | Jan '22 - May '22
-
-- 🤖 Unleashing energy-efficient marvels through spring-powered legged robots.
-- ⚡ Unveiling 30% energy savings, fueling a new era in robotics.
-
-### Navigating Lunar Terrain with Precision | Carnegie Mellon University | Sep '22 - Dec '22
-
-- 🚀 Carving automated paths on lunar landscapes with collaborative algorithms.
-- 🌠 Navigating the treacherous terrain using A-Star algorithm for rover entry.
-
-### Architecting Quadrupeds: Robots with a Difference | Vellore Institute of Technology | Oct '19 - Dec '21
-
-- 🤖 Orchestrating a team to construct walking quadruped robots with extended workspace.
-- 🔍 Probing kinematics to redefine quadruped movement and control.
-
-### Sanitation in the Robotic Age | Vellore Institute of Technology | Sep '21 - Jan '22
-
-- 🧼 Designing UV-light-equipped sanitation robots for the modern age.
-- 🛠️ Pioneering modular designs for efficient repairs and upgrades.
-
-### Breathing Fresh Air with the Oxygen Concentrator | Vellore Institute of Technology | Feb '19 - Jun '19
-
-- 💨 Crafting a portable, electricity-free oxygen concentrator using innovative catalysts.
-- 🔧 Merging SolidWorks and Ansys to engineer a lifeline for breathing.
-
-## Honors and Awards: A Journey Embellished with Accolades 🏆
-
-- 🥇 7th in State level Chess open category by the Government of Gujarat.
-- 🎤 A voice of distinction: Best speaker at India’s IIMUN in 2016.
-- 🚀 Exploring the depths of physics: First stage of the International Physics Olympiad in 2018.
-- ⚡ A visionary of EV charging: 63rd Rank nationally in Hero Campus Challenge 6 (Feb '21).
-
-Feel free to connect and collaborate! 🌐
+*"My heart in my work" - Andrew Carnegie*
