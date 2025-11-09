@@ -1,14 +1,14 @@
 ---
 title: "CutScene: Active Vision for Next Best View Planning"
 collection: projects
-excerpt: '(CMU 16824 Course Project [January 2023 - May 2023]) <a href="https://github.com/FanFeast/NeU-NBV-prediction.git" target="_blank">Visit Project</a><br/><video src="/images/CutScene-Augmentation.gif" controls="controls" style="max-height: 300px;">Your browser does not support the video tag.</video>'
+excerpt: '(CMU 16824 Course Project [January 2023 - May 2023]) <a href="" target="_blank">Visit Project</a><br/><video src="/images/CutScene-Augmentation.gif" controls="controls" style="max-height: 300px;">Your browser does not support the video tag.</video>'
 ---
 
 ## Overview
 
 **CutScene** is an academic group project developed as part of CMU's 16824 Visual Learning course, focusing on active vision for Next Best View (NBV) Planning in outdoor scenes. This project extends the NeU-NBV framework to larger outdoor navigational environments using a novel data augmentation technique.
 
-**Team Members:** [Aditya Rauniyar](https://adityarauniyar.com/), [Omar Alama](https://www.linkedin.com/in/omaralama/), [Yuechuan Hou](https://yuechuanhou.com/), [Mukul Ganwal](https://www.linkedin.com/in/mukul-ganwal/)
+**Team Members:** [Mukul Ganwal](https://www.linkedin.com/in/mukul-ganwal/), [Aditya Rauniyar](https://adityarauniyar.com/), [Omar Alama](https://www.linkedin.com/in/omaralama/), [Yuechuan Hou](https://yuechuanhou.com/)
 
 **Institution:** Carnegie Mellon University
 **Duration:** January 2023 - May 2023
@@ -103,14 +103,14 @@ This work successfully demonstrates the extension of indoor-focused next best vi
 
 ---
 
-**Project Website:** [adityarauniyar.com/cutscene.github.io](https://github.com/FanFeast/NeU-NBV-prediction.git)
+**Project Website:** [github.com/FanFeast/cutscene.github.io](https://github.com/FanFeast/cutscene.github.io)
 
 **Citation:**
 ```bibtex
 @article{2023cutscene,
   title={Cutscene: Active vision for Next Best View Planning in outdoor scenes},
   author={Rauniyar, Aditya and Alama, Omar and Hou, Yuechuan and Ganwal, Mukul},
-  url={https://github.com/FanFeast/NeU-NBV-prediction.git},
+  url={},
   year={2023}
 }
 ```
