@@ -38,16 +38,17 @@ author_profile: true
 
 <div class="experience-section">
   <div class="experience-text">
-    <h2><a href="https://www.google.com">Anyware Robotics</a></h2>
-    <strong>Perception Engineer</strong> [Jan 2024 - Present]  
+    <h2><a href="https://anywarerobotics.com" target="_blank">Anyware Robotics</a></h2>
+    <strong>Perception Engineer II</strong> [Jan 2024 – Present]  
     <ul>
-      <li>Implemented an ML Ops pipeline for continuous active learning.</li>
-      <li>Performed model quantization for edge deployment with TensorRT and ONNX.</li>
-      <li>Developed a Blender-based synthetic data generation pipeline.</li>
-      <li>Applied foundation models and zero-shot learning to improve model generalizability.</li>
+      <li>Leading perception development for robotic palletizing and depalletizing systems integrating multi-camera 3D vision, behavior trees, and fault-tolerant control.</li>
+      <li>Built end-to-end active learning MLOps workflow using Ray, Label Studio, and foundation models for zero-shot labeling — reducing manual annotation by 40% and test-to-deploy time to 40 minutes.</li>
+      <li>Developed large-scale synthetic data generation pipeline using Blender and StyleGAN3 domain randomization (21 styles), boosting mAP by +4.7 pp across unseen datasets.</li>
+      <li>Deployed optimized models with ONNX + TensorRT on GPU edge devices for real-time inference (100 ms latency).</li>
+      <li>Architected ROS 2 Humble perception and task-control stack with hierarchical state machines, reducing unplanned robot downtime by 35% across pilot cells.</li>
     </ul>
   </div>
-  <img src="/images/AWR_Logo.png" alt="AWR LOGO">
+  <img src="/images/AWR_Logo.png" alt="Anyware Robotics Logo">
 </div>
 
 ---
