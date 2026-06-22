@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm **Mukul Ganwal** - a passionate roboticist driven by my love for robots and their potential to transform our world. 
 
-Here's my [Curriculum Vitae](https://drive.google.com/file/d/1tAPE86ZtibBmbd4i2_nG6GHSmxvyKsb3/view?usp=sharing) for detailed information.
+Here's my [Curriculum Vitae](https://drive.google.com/file/d/1zffJzrKkVPekjVyz5iA-gMLBF_hO8kBR/view?usp=sharing) for detailed information.
 
 I am a Perception and MLOps Engineer at Anyware Robotics, where I lead a 4-person team developing end-to-end robotic palletizing systems that integrate computer vision with industrial automation. My work focuses on building production-grade machine learning pipelines that enable robots to understand and interact with complex real-world environments. Currently, I'm shipping systems that use RGB-D cameras and advanced perception algorithms to reconstruct work cells in 0.1 seconds, allowing FANUC robots to palletize boxes with 6.3-second cycle times.
 
